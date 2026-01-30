@@ -1,4 +1,3 @@
-
 # Loadout generator for Helldivers 2 - Discord bot
 ## [Video Demo: https://www.youtube.com/watch?v=i1rzwUheGdw](https://www.youtube.com/watch?v=i1rzwUheGdw)
 ## Project Overview
@@ -269,5 +268,6 @@ https://helldiverstrainingmanual.com/api/v1/planets
 This API returns a list of all planets (and their parameters) that exist in Helldivers 2.
 ## ChatGPT
 ChatGPT has been used for debugging and for answering general questions about python functions.  
-I have used ChatGPT similarly to how I used CS50.ai throughout the course.#   l o a d o u t _ b o t  
+I have used ChatGPT similarly to how I used CS50.ai throughout the course.#   l o a d o u t _ b o t 
+ 
  
