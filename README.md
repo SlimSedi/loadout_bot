@@ -1,4 +1,5 @@
-<div>
+<p align="justify">
+  Lorem ipsum
 # Loadout generator for Helldivers 2 - Discord bot
 ## [Video Demo: https://www.youtube.com/watch?v=i1rzwUheGdw](https://www.youtube.com/watch?v=i1rzwUheGdw)
 ## Project Overview
@@ -270,7 +271,8 @@ This API returns a list of all planets (and their parameters) that exist in Hell
 ## ChatGPT
 ChatGPT has been used for debugging and for answering general questions about python functions.  
 I have used ChatGPT similarly to how I used CS50.ai throughout the course.#   l o a d o u t _ b o t 
-</div>
+</p>
  
+
 
 
